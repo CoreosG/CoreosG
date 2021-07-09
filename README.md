@@ -13,7 +13,7 @@ https://top.gg/bot/790042066322194442
 
 
 Ainda sou novo no mundo da tecnologia/programação, então peço que: se encontrar algum erro em meus trabalhos, 
-por favor, aponte-os, e se possível, explique-me como consertar!
+por favor, aponte-os e, se possível, explique-me como consertar!
 
 Caso queira falar comigo, eis aqui meus contatos:
 
