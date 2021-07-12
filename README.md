@@ -8,7 +8,7 @@ secreto 😅😅
 
 Meus projetos atuais envolvem mais Javascript e SQL mas também sei programar em Python, C e estou no caminho em Java!
 
-Estou desenvolvendo um BOT gerenciador de comunidades e outras funções para o Discord (BGCord)
+Faço parte do desenvolvendo de um BOT gerenciador de comunidades e outras funções para o Discord (BGCord)
 https://top.gg/bot/790042066322194442
 
 
