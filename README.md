@@ -1,9 +1,9 @@
 <h2> Olá! 👋 </h2>
-Me chamo <strong>Amati Francisco</strong>, atualmente estou cursando o 4° período de ADS pela UNIVR!
+Me chamo <strong>Amati Francisco</strong>, atualmente estou cursando o 6° período de ADS pela UNIVR!
 Tenho 20 anos e busco entender como as coisas funcionam, sejam elas tecnologias ou o universo
 a nossa volta!
 
-Hodiernamente estou aprimorando meus conhecimentos em redes/servidores, para quem sabe iniciar um futuro projeto
+Hodiernamente estou aprimorando meus conhecimentos em redes/servidores, para iniciar um futuro projeto
 secreto 😅😅
 
 Meus projetos atuais envolvem mais Javascript e SQL mas também sei programar em Python, C e estou no caminho em Java!
