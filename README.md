@@ -22,7 +22,7 @@ por favor, aponte-os e, se possível, explique-me como consertar!
 
 ##Contatos
 <div>
-<a href="#">![](https://dcbadge.vercel.app/api/shield/240215672414666753)</a>
+<a href="#" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/240215672414666753" target="_blank"></a>
 <a href="https://www.twitch.tv/coreosg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:coreosgg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amati-francisco-93aa30177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
