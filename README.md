@@ -1,7 +1,11 @@
-<h2> Olá! 👋 </h2>
-Me chamo <strong>Amati Francisco</strong>, sou formado em ADS pela UNIVR!
+<h2>👋 Olá! Eu sou o <strong>Amati</strong></h2>  <img src="https://komarev.com/ghpvc/?username=coreosg" />
+
+>"Estamos todos conectados; uns aos outros biologicamente, à Terra quimicamente e ao resto do universo atomicamente." - Neil deGrasse Tyson
+
 Tenho 20 anos e busco entender como as coisas funcionam, sejam elas tecnologias ou o universo
-a nossa volta!
+a nossa volta! <br>
+Sou formado em ADS pela UNIVR e estou me aprimorando para me tornar um analista de dados 
+
 
 Meus projetos atuais envolvem mais Javascript e SQL mas também sei programar em Python!
 
@@ -17,7 +21,6 @@ https://top.gg/bot/790042066322194442
 Se encontrar algum erro em meus trabalhos, por favor, aponte-os e, se possível, explique-me como consertar!
 
 
->"Estamos todos conectados; uns aos outros biologicamente, à Terra quimicamente e ao resto do universo atomicamente." - Neil deGrasse Tyson
 
 ##Contatos
 <div>
