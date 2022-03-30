@@ -21,8 +21,8 @@ por favor, aponte-os e, se possível, explique-me como consertar!
 >"Estamos todos conectados; uns aos outros biologicamente, à Terra quimicamente e ao resto do universo atomicamente." - Neil deGrasse Tyson
 
 ##Contatos
+![](https://dcbadge.vercel.app/api/shield/240215672414666753)
 <div>
-[![Discord](https://dcbadge.vercel.app/api/shield/240215672414666753)]
 <a href="https://www.twitch.tv/coreosg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:coreosgg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amati-francisco-93aa30177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
