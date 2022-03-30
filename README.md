@@ -11,11 +11,10 @@ Meus projetos atuais envolvem mais Javascript e SQL mas também sei programar em
 Faço parte do desenvolvimento de um BOT gerenciador de comunidades e outras funções para o Discord (BGCord)
 https://top.gg/bot/790042066322194442
 
-[![Coreos's GitHub stats](https://github-readme-stats.vercel.app/api?username=coreosg&count_private=true&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true)](https://github.com/coreosg/github-readme-stats)
+[![Estatísticas do GitHub de AmatiF](https://github-readme-stats.vercel.app/api?username=coreosg&count_private=true&show_icons=true&theme=dracula&locale=pt-br)](https://github.com/coreosg/github-readme-stats)
 
 
-Ainda sou novo no mundo da tecnologia/programação, então peço que: se encontrar algum erro em meus trabalhos, 
-por favor, aponte-os e, se possível, explique-me como consertar!
+Se encontrar algum erro em meus trabalhos, por favor, aponte-os e, se possível, explique-me como consertar!
 
 
 >"Estamos todos conectados; uns aos outros biologicamente, à Terra quimicamente e ao resto do universo atomicamente." - Neil deGrasse Tyson
