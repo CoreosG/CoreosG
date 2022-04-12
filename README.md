@@ -1,6 +1,6 @@
 <h2>👋 Olá! Eu sou o <strong>Amati</strong></h2>  <img src="https://komarev.com/ghpvc/?username=coreosg" />
 
->"Estamos todos conectados; uns aos outros biologicamente, à Terra quimicamente e ao resto do universo atomicamente." - Neil deGrasse Tyson
+>"Estamos todos conectados; uns aos outros biologicamente, à Terra quimicamente e ao resto do universo atomicamente." <br> - Neil deGrasse Tyson
 
 Tenho 20 anos e busco entender como as coisas funcionam, sejam elas tecnologias ou o universo
 a nossa volta! <br>
