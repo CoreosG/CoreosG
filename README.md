@@ -18,14 +18,10 @@ https://top.gg/bot/790042066322194442
 [![Estatísticas do GitHub de AmatiF](https://github-readme-stats.vercel.app/api?username=coreosg&count_private=true&show_icons=true&theme=dracula&locale=pt-br)](https://github.com/coreosg/github-readme-stats)
 
 
-Se encontrar algum erro em meus trabalhos, por favor, aponte-os e, se possível, explique-me como consertar!
-
-
-
 ##Contatos
 <div>
 <a href="#" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/240215672414666753" target="_blank"></a>
 <a href="https://www.twitch.tv/coreosg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:coreosgg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:amati202accepted@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amati-francisco-93aa30177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
