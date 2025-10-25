@@ -2,19 +2,6 @@
 
 >"Estamos todos conectados; uns aos outros biologicamente, à Terra quimicamente e ao resto do universo atomicamente." <br> - Neil deGrasse Tyson
 
-Tenho 22 anos e busco entender como as coisas funcionam, sejam elas tecnologias ou o universo
-a nossa volta! <br>
-Sou formado em ADS pela UNIVR e estou me aprimorando para me tornar um analista de dados 
-
-
-Meus projetos atuais envolvem mais Javascript e SQL mas também sei programar em Python!
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=coreosg&layout=compact&theme=dracula&locale=pt-br)](https://github.com/coreosg/github-readme-stats)
-
-
-Faço parte do desenvolvimento de um BOT gerenciador de comunidades e outras funções para o Discord (BGCord)
-https://top.gg/bot/790042066322194442
-
 [![Estatísticas do GitHub de AmatiF](https://github-readme-stats.vercel.app/api?username=coreosg&count_private=true&show_icons=true&theme=dracula&locale=pt-br)](https://github.com/coreosg/github-readme-stats)
 
 
